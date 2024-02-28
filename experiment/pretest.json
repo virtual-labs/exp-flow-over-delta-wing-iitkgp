@@ -5,7 +5,7 @@
         "question": "The formula for aspect ratio is",
         "answers": {
           "a": "AR=b<sup>2</sup>/S",
-          "b": "AR=b<sup>2</sup>*S",
+          "b": "AR=b<sup>2</sup> <strong>*</strong> S",
           "c": "AR=S/b<sup>2</sup>",
           "d": "AR=b/S<sup>2</sup>"
         },

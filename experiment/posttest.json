@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "For the present experiment, the lift generation stalls at",
+        "answers": {
+          "a": " α = 5<sup>o</sup>",
+          "b": " α = 15<sup>o</sup>",
+          "c": " α < 5<sup>o</sup>",
+          "d": " α > 30<sup>o</sup>"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "In the range of 0° ≤ α ≤40°,  the drag acting on the delta wing",
+        "answers": {
+          "a": "increases with angle of attack",
+          "b": "decreases with angle of attack",
+          "c": "doesn’t change with angle of attack",
+          "d": "all the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "The reason for high lift is",
+        "answers": {
+          "a": "leading edge vortex.",
+          "b": "high pressure drag",
+          "c": "None of the above",
+          "d": "Both a and b"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The reason for stalling of lift generation at higher α is",
+        "answers": {
+          "a": "high suction force",
+          "b": "low pressure drag",
+          "c": "adverse pressure gradient",
+          "d": "vortex breakdown"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": " The slope of C<sub>M</sub> vs α in the range of 0° ≤ α ≤30°  is",
+        "answers": {
+          "a": "negative",
+          "b": "positive",
+          "c": "flat",
+          "d": "none of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

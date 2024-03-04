@@ -3,11 +3,11 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Flow over a delta wing and Experiment 4
+<b> Experiment|     <b> Lift, Drag and Pitching moment over a delta wing and Experiment 4
 
 ### About the Experiment 
 
-To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
+To obtain lift, drag and pitching moment over a delta wing, at various angles of attack.
 
 # Subject Matter Experts
 | SNo. | Name | Email | Department | Institute | Profile |

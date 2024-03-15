@@ -3,7 +3,7 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Lift, Drag and Pitching moment over a delta wing and Experiment 4
+<b> Experiment|     <b> Flow over a delta wing and Experiment 4
 
 ### About the Experiment 
 

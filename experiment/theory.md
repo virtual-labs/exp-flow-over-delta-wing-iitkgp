@@ -1,6 +1,7 @@
 # Theory:
 
 Delta wing is a special case of the swept back wings where the trailing edge is not swept according to the leading edge. Therefore, the shape of the planform results like the Greek alphabet delta (Δ), hence the name Delta wing. The advantages of delta wing are crucial for enhanced performance in supersonic flow but it also offers superior performance in the regime of low Reynolds number flow.
+
  
 <center>
 <img src="./images/Fig1.png" style="width:50%;">
@@ -74,8 +75,14 @@ An open return low subsonic suction-type atmospheric wind tunnel generates the f
 <img src="./images/Fig5.png" style="width:50%;">
 </center>
  
+<center>
+<img src="./images/Fig6.png" style="width:50%;">
 
-The model is attached to a three-component strain gauge based sting balance.  The three components are two normal (N and N2) and one axial (A) force. The electrical resistance of a strain gauge changes as it is stretched or contracted. According to the Ohms law, if a constant current is applied to the bridge of gauges, the voltage will change as per the changes in the resistance of the gauge. These changes are compared against calibrated values of dead weights to determine the changes in resistance as the loads measured. The forces acting on the tip of sting balance are the body forces acting on the model: body normal (N<sub>b</sub>) and body axial (A<sub>b</sub>) force. These forces can be transformed from the body axes to the stability axes to determine the aerodynamic forces lift (L) and drag (D) using the following relationships.
+###### Figure: N1 and N2 from sting balance constitute N<sub>b</sub> for the delta wing, which along with A<sub>b</sub> and α can be used to get L and D.
+</center>
+
+
+The model is attached to a three-component strain gauge based sting balance. The three components are two normal (N1 and N2) and one axial (A) force. The electrical resistance of a strain gauge changes as it is stretched or contracted. According to the Ohms law, if a constant current is applied to the bridge of gauges, the voltage will change as per the changes in the resistance of the gauge. These changes are compared against calibrated values of dead weights to determine the changes in resistance as the loads measured. The forces acting on the tip of sting balance are the body forces acting on the model: body normal (N<sub>b</sub>) and body axial (A<sub>b</sub>) force. These forces can be transformed from the body axes to the stability axes to determine the aerodynamic forces lift (L) and drag (D) using the following relationships.
 
 <center>
 <img src="./images/Eq4.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4)
@@ -90,7 +97,7 @@ The sting balance records the normal force (N<sub>b</sub>) in the two components
 <img src="./images/Eq6.png" style="width:15%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (6)
 </center>
 
-Here, L is the distance between the strain gauge bridges for N1 and N2. In the present case, L is 65 mm. The data acquisition system used in the setup measure the voltage changes and convert them to the load based on the calibration data. The daq systems outputs the mean values for L, D and PM for every case of measurement.
+Here, l is the distance between the strain gauge bridges for N1 and N2. In the present case, l is 65 mm. The data acquisition system used in the setup measure the voltage changes and convert them to the load based on the calibration data. The DAQ systems outputs the mean values for L, D and M for every case of measurement.
 
 
  
